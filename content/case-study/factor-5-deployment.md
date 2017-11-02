@@ -16,7 +16,7 @@ Factor5 is a fast moving startup with their main offering 'Courseloop', under ac
 
 # Solution
 
-The team did some workshops and realised the the non-conventional nature of the development workflow on top of the <a href="https://www.servicenow.com/">'ServiceNow'</a> platform was a pain point that needed be addressed before moving forward. A hybrid solution which implemented bespoke and native to ServiceNow and elements was proposed. This paved the way for the team to implement a more automated deployment method, packaging the changes into a singular item which can also be extracted from the ServiceNow platform into version control.
+The team did some workshops and realised that the non-conventional nature of the development workflow on top of the <a href="https://www.servicenow.com/">'ServiceNow'</a> platform was going to require some creativity to work with. A hybrid solution which implemented bespoke and native to ServiceNow and elements was proposed. This paved the way for the team to implement a more automated deployment method, packaging the changes into a singular item which can also be extracted from the ServiceNow platform into version control.
 
 # Benefits
 

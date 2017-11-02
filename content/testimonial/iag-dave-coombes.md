@@ -1,5 +1,5 @@
 ---
-author: Dave Coombs
+author: Dave Coombes
 position: Head of Group Technology, IAG
 testimonials: cloud
 frontpage: true

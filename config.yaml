@@ -112,6 +112,8 @@ params:
         logo: ioof.png
       - link: https://www.iag.com.au
         logo: iag.png
+      - link: https://www.factor5.com.au/
+        logo: factor5tm.png
 
   partners:
     title: Our partnership

@@ -21,7 +21,7 @@ events:
     title: Independence
   - date: 2017
     description: >
-      The core team are a group with deep roots in the agile and devops movements. We are striving to help our clients achieve real, meaningful, valuable change in their technology adoption, software development practices and across their organisations.
+      The core team are a group with deep roots in the agile and devops movements. We are striving to help our clients achieve real, meaningful, valuable change in their technology adoption and software development practices across their organisations.
     img: momentum.jpg
     title: Gathering momentum
 

@@ -2,6 +2,7 @@
 <header class="hero">
   <div class="container">
     <div class="intro-text">
+      <link rel="preload" href="/img/header-bg.jpg" as="image">
       <div class="intro-lead-in">{{ with .Site.Params.hero.title }}{{ . | markdownify }}{{ end }}</div>
       <div class="intro-heading">{{ with .Site.Params.hero.subtitle }}{{ . | markdownify }}{{ end }}</div>
       <a href="#services" class=" btn btn-xl">{{ with .Site.Params.hero.buttonText }}{{ . }}{{ end }}</a>

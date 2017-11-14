@@ -328,7 +328,7 @@ people:
   - name: Grace Chilakamarri
     sort: 2017-11-13
     position: Software Developer
-    desc: Grace is an experienced agile technologist, with a passion to deliver quality software.She has a keen interest for databases and automation of manual tasks. She believes that we are what we repeatedly do. She enjoys solving people problems and bringing teams together. Currently she is learning and understanding DevOps and trying to figure out how to solve people and technology problems in the Melbourne tech market.
+    desc: Grace is an experienced agile technologist, with a passion to deliver quality software. She has a keen interest for databases and automation of manual tasks. She believes that we are what we repeatedly do. She enjoys solving people problems and bringing teams together. Currently she is learning and understanding DevOps and trying to figure out how to solve people and technology problems in the Melbourne tech market.
     avatar: grace_chilakamarri.png
     socials:
       - icon_class: fa fa-linkedin

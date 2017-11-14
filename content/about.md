@@ -328,8 +328,8 @@ people:
   - name: Grace Chilakamarri
     sort: 2017-11-13
     position: Software Developer
-    desc: Grace is an experienced agile technologist, with a passion to deliver quality software.She has a keen interest for databases and automation of manual tasks.She believes that we are what we repeatedly do.She enjoys solving people problems and bringing teams together.Currently she is learning and understanding DevOps and trying to figure out how to solve people and technology problems in the Melbourne tech market.
-    avatar: grace_chilakamarri.jpg
+    desc: Grace is an experienced agile technologist, with a passion to deliver quality software.She has a keen interest for databases and automation of manual tasks. She believes that we are what we repeatedly do. She enjoys solving people problems and bringing teams together. Currently she is learning and understanding DevOps and trying to figure out how to solve people and technology problems in the Melbourne tech market.
+    avatar: grace_chilakamarri.png
     socials:
       - icon_class: fa fa-linkedin
         url: https://www.linkedin.com/in/reachgracie
@@ -338,7 +338,7 @@ people:
     sort: 2017-11-13
     position: Sales Executive
     desc: Matt Elgin is an experienced Sales Executive that has worked for some of our nation’s top multinational IT service providers and has also delivered sales growth for some exciting technology start-ups. Matt is known to build trusted relationships, ensuring his client’s needs and objectives are successfully met and has done so across a broad range of industries including utilities, logistics, healthcare, government and higher education.
-    avatar: matt_elgin.jpg
+    avatar: matt_elgin.png
     socials:
       - icon_class: fa fa-linkedin
         url: https://www.linkedin.com/in/elginmatt
@@ -347,7 +347,7 @@ people:
     sort: 2017-11-13
     position: Marketing Executive
     desc: Sian Hughes is an experienced marketing specialist, bringing a broad range of strategic and tactical skills from across the health and technology sectors both in Australia and the UK. Comfortable as the non-techie in tech environments, she has a hands-on approach to building a brand, delivering MarComms initiatives and communicating with a range of audiences across channels.
-    avatar: sian_hughes.jpg
+    avatar: sian_hughes.png
     socials:
       - icon_class: fa fa-linkedin
         url: https://www.linkedin.com/in/sianehughes                

@@ -327,7 +327,7 @@ people:
 
   - name: Grace Chilakamarri
     sort: 2017-11-13
-    position: Agile Technologist
+    position: Software Developer
     desc: Grace is an experienced agile technologist, with a passion to deliver quality software.She has a keen interest for databases and automation of manual tasks.She believes that we are what we repeatedly do.She enjoys solving people problems and bringing teams together.Currently she is learning and understanding DevOps and trying to figure out how to solve people and technology problems in the Melbourne tech market.
     avatar: grace_chilakamarri.jpg
     socials:
@@ -345,7 +345,7 @@ people:
 
   - name: Sian Hughes
     sort: 2017-11-13
-    position: Marketing Specialist
+    position: Marketing Executive
     desc: Sian Hughes is an experienced marketing specialist, bringing a broad range of strategic and tactical skills from across the health and technology sectors both in Australia and the UK. Comfortable as the non-techie in tech environments, she has a hands-on approach to building a brand, delivering MarComms initiatives and communicating with a range of audiences across channels.
     avatar: sian_hughes.jpg
     socials:

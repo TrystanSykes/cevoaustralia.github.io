@@ -347,7 +347,7 @@ people:
     sort: 2017-11-13
     position: Marketing Executive
     desc: Sian Hughes is an experienced marketing specialist, bringing a broad range of strategic and tactical skills from across the health and technology sectors both in Australia and the UK. Comfortable as the non-techie in tech environments, she has a hands-on approach to building a brand, delivering MarComms initiatives and communicating with a range of audiences across channels.
-    avatar: sian_hughes.png
+    avatar: sian_hughes.jpg
     socials:
       - icon_class: fa fa-linkedin
         url: https://www.linkedin.com/in/sianehughes                

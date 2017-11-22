@@ -4,6 +4,7 @@ client: IAG
 clientLink: "#"
 cases: cloud
 img: iag.png
+thumb: hourglass.png
 ---
 # Industry
 

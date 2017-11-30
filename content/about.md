@@ -147,21 +147,6 @@ people:
       - icon_class: fa fa-linkedin
         url: https://www.linkedin.com/in/jamesstrain1
 
-  - name: Jagannath Vaikuntham
-    sort: 2017-02-10
-    position: Quality Craftsman
-    desc:
-      Jagannath loves technology and the value it creates.
-      <br><br>
-      Currently he is working on improving his expertise on Test Automation, Devops (Docker, AWS), Machine Learning and NodeJs; and figuring out how these multiple disciplines can be amalgamated.
-    avatar: jagannath_vaikuntham.jpg
-    socials:
-      - icon_class: fa fa-linkedin
-        url: https://www.linkedin.com/in/vjags
-      - icon_class: fa fa-twitter
-        url: https://twitter.com/vaikuntj
-
-
   - name: Colin Panisset
     sort: 2016-07-07
     position: Director, Transformation and Delivery

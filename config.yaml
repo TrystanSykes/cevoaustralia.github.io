@@ -56,6 +56,10 @@ params:
     title: Our team
     subtitle: Meet the Cevo crew
 
+  news:
+    center: true
+    title: Cevo in the News
+
   services:
     title: Services
     subtitle: Delivering technology, sharing skills, building capability
